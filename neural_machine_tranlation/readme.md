@@ -12,3 +12,4 @@
 
 #### **Probabilistic Overview of NMT**
 ###### **Before go further lets have a look on probability basic. `P(X|Y)` refers to a probability of the event `Y` occuring given `X` has occured.<br>Now imagine `B` and `E` as asequence of Bangali and English words, respectively. If we apply the same difination of conditional probability here, it will mean `P(B|E)` is the probability of a sequence of words in Bangali `(B)` occuring, given there is a sequence of words in English `(E)`.**
+###### **That means the task of translation (from Bangali to English) is to maximize this probability `P(B|E)`. The neural network's task is to larn the conditional distribution, and then when a source sentence is given, search for an appropriate target sentence by maximizing this conditional probability.**
