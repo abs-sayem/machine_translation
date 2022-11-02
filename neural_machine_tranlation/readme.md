@@ -10,3 +10,5 @@
 * `pip install tensorflow`
 * `pip install tensorflow-text`
 
+#### **Probabilistic Overview ob NMT**
+###### **Before go further lets have a look on probability basic. `P(X|Y)` refers to a probability of the event `Y` occuring given `X` has occured.<br>**
