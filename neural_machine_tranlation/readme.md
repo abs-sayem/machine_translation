@@ -17,4 +17,4 @@
 #### **Math Behind NMT**
 ###### **NMT is the process of leveraging an artificial neural network to maximize this conditional probability.<br>An NMT architecture usually comprises an encoder and a decoder. Before `Bahdanau` and `Luong`, the encoder and decoder used only recurrence to solve the machine translation task. Here, we will discuss the math behind modeling translation using only RNNs as encoder and decoders.<br>Lets consider the equation of the hidden state of the RNN in the encoder:**
 ###### $$h_t = f(x_t, h_{t-1})$$
-###### **Here, `f` is a neural network (can be an RNN, LSTM or GRU). The main motivation here is to understand that the current hidden state `$(h_t)$` depends on the current input $(x_t)$ and the previous hidden state $(h_{t-1})$.**
+###### **Here, `f` is a neural network (can be an RNN, LSTM or GRU). The main motivation here is to understand that the current hidden state $`(h_t)`$ depends on the current input $(x_t)$ and the previous hidden state $(h_{t-1})$.**
