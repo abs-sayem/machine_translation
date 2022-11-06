@@ -19,4 +19,5 @@
 ###### $$h_t = f(x_t, h_{t-1})$$
 ###### **Here, `f` is a neural network (can be an RNN, LSTM or GRU). The main motivation here is to understand that the current hidden state $(h_t)$ depends on the current input $(x_t)$ and the previous hidden state $(h_{t-1})$. This recursive cell output feeding to the next (according to the mechanism of RNN).<br>The encoder in NMT creates a bottlenect fixed size vector (Context Vector, `c`) from all the hidden states of the encoder. The context vector `(c)` will be used by the decoder to get to the target sequence.**
 ###### $$c = q({h_1, h_2, h_3,..., h_T_x})$$
-###### **`q` cam be any non-linearity. We will more likely to **
+###### **`q` cam be any non-linearity. We will more likely find `c` to be the last hidden state $h_T_x$.**
+###### **The decoder predicts the next word $y_t$ given the context vector `c` and all the previously predicted words ${y_1, y_2, ...., y_{t-1}}$.**
