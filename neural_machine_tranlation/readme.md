@@ -21,3 +21,5 @@
 ###### $$c = q({h_1, h_2, h_3,..., h_{T_x}})$$
 ###### **`q` can be any non-linearity. We will more likely find `c` to be the last hidden state $(h_{T_x})$**
 ###### **The decoder predicts the next word $(y_t)$ given the context vector `c` and all the previously predicted words $(y_1, y_2, ...., y_{t-1})$.**
+###### **Now let's rewrite the probabilistic equation:**
+###### $$p(y_t|{y_1,y_2,...,y_{t-1}}) = g(y_{t-1},s_t,c)$$
