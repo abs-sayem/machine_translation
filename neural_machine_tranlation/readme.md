@@ -23,4 +23,4 @@
 ###### **The decoder predicts the next word $(y_t)$ given the context vector $c$ and all the previously predicted words $(y_1, y_2, ...., y_{t-1})$.**
 ###### **Now let's rewrite the probabilistic equation:**
 ###### $$p(y_t|{y_1,y_2,...,y_{t-1}}) = g(y_{t-1},s_t,c)$$
-###### **$s_t = f(y_{t-1},s_{t-1},c)$ is the hidden state of the decoder. Just like the hidden state of the encoder, $f$ can be any recurrent architecture (RNN, LSTM or GRU).<br>$g$ can be any non-linearity that outputs the probability of the next word given all the previously generated words and the context vector.**
+###### **$s_t = f(y_{t-1},s_{t-1},c)$ is the hidden state of the decoder. Just like the hidden state of the encoder, $f$ can be any recurrent architecture (RNN, LSTM or GRU). $g$ can be any non-linearity that outputs the probability of the next word given all the previously generated words and the context vector.**
