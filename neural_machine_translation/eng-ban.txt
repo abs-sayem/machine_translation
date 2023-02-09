@@ -1,14 +1,14 @@
-I know Bangla.    আমি বাংলা জানি.
-It is a Bangla to English translation file.    এটা বাংলা থেকে ইংরেজি অনুবাদের নথি.
-Bangla is my mother tounge.    বাংলা আমার মাতৃভাষা.
-I sing song in Bangla.    আমি বাংলায় গান গাই.
-Bangla is a language.    বাংলা একটি ভাষা.
-About hundrad million people speaks in Bangla.    প্রায় এক কোটি মানুষ বাংলায় কথা বলে.
-21st of February is the International Mother Language Day.    একুশে ফেব্রুয়ারি আন্তর্জাতিক মাতৃভাষা দিবস.
-Bangladesh is a south-asian country.    বাংলাদেশ দক্ষিন এশিয়ার একটি দেশ.
-About seventy percentage of people are literate.    বাংলাদেশের প্রায় সত্তর ভাগ মানুষ স্বাক্ষর.
-Bangladesh is a developing country.    বাংলাদেশ একটি উন্নয়নশীল দেশ.
-Do you ever been in Bangladesh?    আপনি কি কখনো বাংলাদেশে গিয়েছেন?
-Allas! We lost the game.    হায়! আমরা খেলায় হেরেছি.
-I do not know him.    আমি উনাকে চিনি না.
-I have no idea about this.    আমার এই সম্পর্কে কোনো ধারনা নেই.
+I know Bangla. >>> আমি বাংলা জানি.
+It is a Bangla to English translation file. >>> এটা বাংলা থেকে ইংরেজি অনুবাদের নথি.
+Bangla is my mother tounge. >>> বাংলা আমার মাতৃভাষা.
+I sing song in Bangla. >>> আমি বাংলায় গান গাই.
+Bangla is a language. >>> বাংলা একটি ভাষা.
+About hundrad million people speaks in Bangla. >>> প্রায় এক কোটি মানুষ বাংলায় কথা বলে.
+21st of February is the International Mother Language Day. >>> একুশে ফেব্রুয়ারি আন্তর্জাতিক মাতৃভাষা দিবস.
+Bangladesh is a south-asian country. >>> বাংলাদেশ দক্ষিন এশিয়ার একটি দেশ.
+About seventy percentage of people are literate. >>> বাংলাদেশের প্রায় সত্তর ভাগ মানুষ স্বাক্ষর.
+Bangladesh is a developing country. >>> বাংলাদেশ একটি উন্নয়নশীল দেশ.
+Do you ever been in Bangladesh? >>> আপনি কি কখনো বাংলাদেশে গিয়েছেন?
+Allas! We lost the game. >>> হায়! আমরা খেলায় হেরেছি.
+I do not know him. >>> আমি উনাকে চিনি না.
+I have no idea about this. >>> আমার এই সম্পর্কে কোনো ধারনা নেই.
