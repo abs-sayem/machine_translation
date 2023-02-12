@@ -12,7 +12,7 @@
 বাংলাদেশ দক্ষিন এশিয়ার একটি দেশ. >>> Bangladesh is a south-asian country.
 বাংলাদেশের প্রায় সত্তর ভাগ মানুষ স্বাক্ষর. >>> About seventy percentage of people are literate.
 বাংলাদেশ একটি উন্নয়নশীল দেশ. >>> Bangladesh is a developing country.
-আপনি কি কখনো বাংলাদেশে গিয়েছেন? >>> Do you ever been in Bangladesh?
+আপনি কি কখনো বাংলাদেশে গিয়েছেন? >>> Have you ever been to Bangladesh?
 হায়! আমরা খেলায় হেরেছি. >>> Allas! We lost the game.
 আমি উনাকে চিনি না. >>> I do not know him.
 আমার এই সম্পর্কে কোনো ধারনা নেই. >>> I have no idea about this.
