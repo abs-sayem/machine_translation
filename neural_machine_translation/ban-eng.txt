@@ -1,7 +1,6 @@
 দুঃখিত. >>> Sorry.
 হ্যাঁ. >>> Yes.
 না. >>> No.
-
 আমি বাংলা জানি. >>> I know Bangla.
 এটা বাংলা থেকে ইংরেজি অনুবাদের নথি. >>> It is a Bangla to English translation file.
 বাংলা আমার মাতৃভাষা. >>> Bangla is my mother tounge.
