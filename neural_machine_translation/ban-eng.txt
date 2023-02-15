@@ -1,7 +1,11 @@
 দুঃখিত. >>> Sorry.
 হ্যাঁ. >>> Yes.
 না. >>> No.
+না. >>> Nope.
+তুমি কি পাগল! >>> Are you mad!
+আপনি কি পাগল! >>> Are you mad!
 আমি বাংলা জানি. >>> I know Bangla.
+আমি বাংলা জানি না. >>> I don't know Bangla.
 এটা বাংলা থেকে ইংরেজি অনুবাদের নথি. >>> It is a Bangla to English translation file.
 বাংলা আমার মাতৃভাষা. >>> Bangla is my mother tounge.
 আমি বাংলায় গান গাই. >>> I sing song in Bangla.
@@ -14,4 +18,4 @@
 আপনি কি কখনো বাংলাদেশে গিয়েছেন? >>> Have you ever been to Bangladesh?
 হায়! আমরা খেলায় হেরেছি. >>> Allas! We lost the game.
 আমি উনাকে চিনি না. >>> I do not know him.
-আমার এই সম্পর্কে কোনো ধারনা নেই. >>> I have no idea about this.
+======================================================================================
